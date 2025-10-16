@@ -1,0 +1,4 @@
+print("test")
+print(124)
+print("test124")
+print(232)
